@@ -1,0 +1,273 @@
+{
+  "version": "1.0",
+
+  "lobs": [
+    {
+      "name": "Propelis (Corporate)",
+      "code": "PR"
+    },
+    {
+      "name": "5Flow",
+      "code": "5F"
+    },
+    {
+      "name": "Collide",
+      "code": "CO"
+    },
+    {
+      "name": "SGX",
+      "code": "CP"
+    },
+    {
+      "name": "Marks",
+      "code": "MK"
+    },
+    {
+      "name": "Print Solutions",
+      "code": "PS"
+    }
+  ],
+
+  "sites": [
+    {
+      "name": "SGK Ferrero Alfreton",
+      "code": "ALF"
+    },
+    {
+      "name": "SGK Alzira",
+      "code": "ALZ"
+    },
+    {
+      "name": "SGK Antwerp",
+      "code": "ANT"
+    },
+    {
+      "name": "SGK Appleton",
+      "code": "APP"
+    },
+    {
+      "name": "SGK AWS",
+      "code": "AWS"
+    },
+    {
+      "name": "SGK Battle Creek",
+      "code": "BCM"
+    },
+    {
+      "name": "SGK Baltimore",
+      "code": "BLT"
+    },
+    {
+      "name": "SGK Budapest",
+      "code": "BUD"
+    },
+    {
+      "name": "SGK Bury",
+      "code": "BUR"
+    },
+    {
+      "name": "SGK Brazil",
+      "code": "CDB"
+    },
+    {
+      "name": "SGK Chennai",
+      "code": "CHE"
+    },
+    {
+      "name": "SGK Cleckheaton",
+      "code": "CLE"
+    },
+    {
+      "name": "SGK East Butler",
+      "code": "EBT"
+    },
+    {
+      "name": "SGK Pittsburgh",
+      "code": "ECS"
+    },
+    {
+      "name": "Equator Chicago",
+      "code": "EQC"
+    },
+    {
+      "name": "Equator Manchester",
+      "code": "EQM"
+    },
+    {
+      "name": "Equator Nottingham",
+      "code": "EQN"
+    },
+    {
+      "name": "SGK Cincinnati",
+      "code": "EQT"
+    },
+    {
+      "name": "SGK Goslar",
+      "code": "GOS"
+    },
+    {
+      "name": "SGK Gatwick",
+      "code": "GWK"
+    },
+    {
+      "name": "SGK Hong Kong",
+      "code": "HKG"
+    },
+    {
+      "name": "SGK Indianapolis",
+      "code": "IND"
+    },
+    {
+      "name": "SGK Julich",
+      "code": "JUL"
+    },
+    {
+      "name": "SGK Lodz",
+      "code": "LOD"
+    },
+    {
+      "name": "SGK London",
+      "code": "LON"
+    },
+    {
+      "name": "SGK Leipzig",
+      "code": "LPZ"
+    },
+    {
+      "name": "SGK Manchester",
+      "code": "MAN"
+    },
+    {
+      "name": "SGK Marietta",
+      "code": "MAR"
+    },
+    {
+      "name": "SGK Mondelez",
+      "code": "MDZ"
+    },
+    {
+      "name": "SGK Mexico",
+      "code": "MEX"
+    },
+    {
+      "name": "SGK Minneapolis",
+      "code": "MIN"
+    },
+    {
+      "name": "SGK Tigard MarketCraft",
+      "code": "MKC"
+    },
+    {
+      "name": "SGK Munich",
+      "code": "MUN"
+    },
+    {
+      "name": "SGK Newcastle",
+      "code": "NEW"
+    },
+    {
+      "name": "SGK Newport",
+      "code": "NKY"
+    },
+    {
+      "name": "SGK Nuremberg",
+      "code": "NUR"
+    },
+    {
+      "name": "SGK Penang",
+      "code": "PEN"
+    },
+    {
+      "name": "SGK Portland",
+      "code": "POR"
+    },
+    {
+      "name": "SGK Protopak",
+      "code": "PRO"
+    },
+    {
+      "name": "SGK Paris",
+      "code": "PRS"
+    },
+    {
+      "name": "SGK Redmond",
+      "code": "RED"
+    },
+    {
+      "name": "SGK River Road",
+      "code": "RIV"
+    },
+    {
+      "name": "SGK San Francisco",
+      "code": "SFS"
+    },
+    {
+      "name": "SGK Shanghai",
+      "code": "SHG"
+    },
+    {
+      "name": "SGK Shenzhen",
+      "code": "SHZ"
+    },
+    {
+      "name": "SGK Singapore",
+      "code": "SIN"
+    },
+    {
+      "name": "SGK Speke",
+      "code": "SPK"
+    },
+    {
+      "name": "SGK Paristanbul-Matris",
+      "code": "SPM"
+    },
+    {
+      "name": "SGK St Louis",
+      "code": "STL"
+    },
+    {
+      "name": "SGK Sydney",
+      "code": "SYD"
+    },
+    {
+      "name": "SGK Tokyo",
+      "code": "TOK"
+    },
+    {
+      "name": "SGK Toronto",
+      "code": "TOR"
+    },
+    {
+      "name": "SGK Vienna",
+      "code": "VIE"
+    },
+    {
+      "name": "SGK Vreden",
+      "code": "VRE"
+    },
+    {
+      "name": "SGK Warsaw",
+      "code": "WAR"
+    },
+    {
+      "name": "SGK Witham",
+      "code": "WIT"
+    },
+    {
+      "name": "SGK Walnut",
+      "code": "WNT"
+    },
+    {
+      "name": "SGK Woolworths",
+      "code": "WOL"
+    },
+    {
+      "name": "SGK York",
+      "code": "YRK"
+    },
+    {
+      "name": "SGK Zhangjiagang",
+      "code": "ZJG"
+    }
+  ]
+}
