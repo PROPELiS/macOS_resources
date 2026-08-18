@@ -318,6 +318,28 @@
       "ppdPath": "/Library/Printers/PPDs/Contents/Resources/KONICAMINOLTAC308.gz",
       "driverInstallTrigger": "install_Konica_Minolta_C759_11.9",
       "options": "-o printer-is-shared=false -o printer-error-policy=abort-job"
+    },
+    {
+      "name": "SafeQ1",
+      "description": "SGK UK FollowMe Colour",
+      "manufacturer": "Konica",
+      "modelName": "Konica Minolta 300",
+      "location": "",
+      "address": "lpd://localhost:5515/secure",
+      "ppdPath": "/Library/Printers/PPDs/Contents/Resources/KONICAMINOLTAC300i.gz",
+      "driverInstallTrigger": "install_SGK_UK_FollowMe_Printers",
+      "options": "-o printer-is-shared=false -o KMTray=Auto -o PageSize=A4 -o Duplex=DuplexNoTumble -o ColorMode=Color -o Resolution=1200dpi -o Finisher=FS539_Eagle/FS-539"
+    },
+    {
+      "name": "SafeQ0",
+      "description": "SGK UK FollowMe Mono",
+      "manufacturer": "Konica",
+      "modelName": "Konica Minolta 300",
+      "location": "",
+      "address": "lpd://localhost:5515/secure",
+      "ppdPath": "/Library/Printers/PPDs/Contents/Resources/KONICAMINOLTAC300i.gz",
+      "driverInstallTrigger": "install_SGK_UK_FollowMe_Printers",
+      "options": "-o printer-is-shared=false -o KMTray=Auto -o PageSize=A4 -o Duplex=DuplexNoTumble -o ColorMode=Gray -o SelectColor=Grayscale -o Resolution=1200dpi -o Finisher=FS539_Eagle/FS-539"
     }
   ]
 }
