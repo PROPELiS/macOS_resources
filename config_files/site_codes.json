@@ -336,6 +336,10 @@
       "code": "SHG"
     },
     {
+      "name": "Seoul",
+      "code": "SEO"
+    },
+    {
       "name": "Shenzhen",
       "code": "SHZ"
     },
@@ -354,10 +358,6 @@
     {
       "name": "St Louis",
       "code": "STL"
-    },
-    {
-      "name": "St.Louis",
-      "code": "SGY"
     },
     {
       "name": "Stevenson",
