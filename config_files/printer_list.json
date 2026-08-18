@@ -272,7 +272,7 @@
       "location": "Chicago - ELT",
       "address": "ipp://10.5.32.15",
       "ppdPath": "/Library/Printers/PPDs/Contents/Resources/HP Color LaserJet MFP M577.gz",
-      "driverInstallTrigger": "install_hp-printer-essentials-UniPS-6_1_0_1",
+      "driverInstallTrigger": "install_hp-printer-essentials-UniPS-6_4_0_1",
       "options": "-o printer-is-shared=false -o OptMultipurposeFeeder=True"
     },
     {
@@ -283,7 +283,7 @@
       "location": "Chicago - ELT",
       "address": "ipp://10.5.32.16/",
       "ppdPath": "/Library/Printers/PPDs/Contents/Resources/HP Color LaserJet MFP M577.gz",
-      "driverInstallTrigger": "install_hp-printer-essentials-UniPS-6_1_0_1",
+      "driverInstallTrigger": "install_hp-printer-essentials-UniPS-6_4_0_1",
       "options": "-o printer-is-shared=false -o OptMultipurposeFeeder=True"
     },
     {
