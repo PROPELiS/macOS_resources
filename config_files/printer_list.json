@@ -1,5 +1,5 @@
 {
-  "lastEditDate": "2026-07-20",
+  "lastEditDate": "2026-08-18",
   "organization": "Propelis",
   "printers": [
     {
@@ -307,6 +307,17 @@
       "ppdPath": "/Library/Printers/PPDs/Contents/Resources/TOSHIBA_ColorMFP.gz",
       "driverInstallTrigger": "install_TOSHIBA_ColorMFP",
       "options": "-o printer-is-shared=false -o OptMultipurposeFeeder=True"
+    },
+    {
+      "name": "SGK Newcastle_Studio_Green",
+      "description": "SGK Newcastle_Studio_Green",
+      "manufacturer": "Konica",
+      "modelName": "Konica Minolta 308",
+      "location": "SGK Newcastle Studio",
+      "address": "lpd://10.129.128.88",
+      "ppdPath": "/Library/Printers/PPDs/Contents/Resources/KONICAMINOLTAC308.gz",
+      "driverInstallTrigger": "install_Konica_Minolta_C759_11.9",
+      "options": "-o printer-is-shared=false -o printer-error-policy=abort-job"
     }
   ]
 }
