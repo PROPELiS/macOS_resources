@@ -1,0 +1,65 @@
+# macOS system files
+.DS_Store
+
+# app Files
+*.app
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+
+# Packaging output directories and generated packages
+*.pkg
+*.dmg
+*.mpkg
+*.iso
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.tar.bz2
+*.tbz
+*.xz
+
+# MS Office files
+*.docx
+*.xlsx
+*.pptx
+*.potx
+
+# Icon files or other image/media assets not tracked in Git
+*.icns
+*.ico
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+
+# Backup/editor junk
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Git settings (useful if you're sharing the repo across systems)
+.gitconfig
+
+# YAML validation / linter outputs (if using yamllint or schema tools)
+*.lint-report.yaml
+
+# DONT INCLUDE YOUR PWs and SAVED CREDS!!!
+.env
+.env.*
+secrets.json
+config.json
