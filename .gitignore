@@ -33,18 +33,6 @@ venv/
 *.pptx
 *.potx
 
-# Icon files or other image/media assets not tracked in Git
-*.icns
-*.ico
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
-*.tiff
-*.webp
-*.svg
-
 # Backup/editor junk
 *~
 *.swp
@@ -62,4 +50,3 @@ venv/
 .env
 .env.*
 secrets.json
-config.json
