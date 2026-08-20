@@ -395,18 +395,6 @@
       "ppdPath": "/Library/Printers/PPDs/Contents/Resources/Xerox PrimeLink C9265.gz",
       "driverInstallTrigger": "install_Xerox_Drivers_5.18.0",
       "options": "-o printer-is-shared=false -o printer-error-policy=abort-job"
-    },
-     {
-      "name": "MN_Main Printer",
-      "description": "Hall Xerox",
-      "manufacturer": "Xerox",
-      "modelName": "Universal Color",
-      "location": "Dane Allee - Office",
-      "icon": "printer.fill",
-      "address": "lpd://10.2.8.29",
-      "ppdPath": "/Library/Printers/PPDs/Contents/Resources/Lexmark Universal Color.gz",
-      "driverInstallTrigger": "install_printerDriver_LexmarkUCP",
-      "options": "-o printer-is-shared=false -o OptMultipurposeFeeder=True"
     }
   ]
 }
