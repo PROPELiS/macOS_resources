@@ -3,6 +3,17 @@
   "organization": "Propelis",
   "printers": [
     {
+      "name": "MAL-Anchor_Room",
+      "description": "Canon iR-ADV C5235/5240 PS",
+      "manufacturer": "Canon",
+      "modelName": "C5235/5240 PS",
+      "location": "Maltings",
+      "address": "lpd://10.9.32.60/",
+      "ppdPath": "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Resources/Generic.ppd",
+      "driverInstallTrigger": "install_Canon_PS_Driver",
+      "options": "-o printer-is-shared=false"
+    },
+    {
       "name": "SBY-PR-LX01",
       "description": "Production Finance Printer",
       "manufacturer": "Ricoh",
