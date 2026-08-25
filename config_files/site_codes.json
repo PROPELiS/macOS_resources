@@ -26,6 +26,44 @@
       "code": "PS"
     }
   ],
+  "departments": [
+    {
+      "id": "1",
+      "name": "General"
+    },
+    {
+      "id": "2",
+      "name": "Prepress"
+    },
+    {
+      "id": "3",
+      "name": "Color"
+    },
+    {
+      "id": "4",
+      "name": "Information Technology"
+    },
+    {
+      "id": "5",
+      "name": "3D/CGI"
+    },
+    {
+      "id": "6",
+      "name": "Quality Control"
+    },
+    {
+      "id": "7",
+      "name": "Creative Design"
+    },
+    {
+      "id": "8",
+      "name": "Production Design"
+    },
+    {
+      "id": "9",
+      "name": "Development"
+    }
+  ],
   "sites": [
     {
       "name": "Alzira",
