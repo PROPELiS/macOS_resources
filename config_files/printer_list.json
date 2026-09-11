@@ -2,6 +2,17 @@
   "lastEditDate": "2026-08-18",
   "organization": "Propelis",
   "printers": [
+       {
+      "name": "MAL-Anchor_Room",
+      "description": "Maltings Anchor Room Printer",
+      "manufacturer": "Canon",
+      "modelName": "Canon iR-ADV C5235/5240 PS",
+      "location": "Anchor Room Floor",
+      "address": "lpd://10.9.32.60",
+      "ppdPath": "/Library/Printers/PPDs/Contents/Resources/CNMCIRAC5235S2.ppd.gz",
+      "driverInstallTrigger": "install_Canon_PS_Driver",
+      "options": "-o printer-is-shared=false"
+    },
     {
       "name": "SBY-PR-LX01",
       "description": "Production Finance Printer",
