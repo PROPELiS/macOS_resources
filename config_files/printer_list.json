@@ -2,7 +2,51 @@
   "lastEditDate": "2026-08-18",
   "organization": "Propelis",
   "printers": [
-       {
+    {
+      "name": "STO-7765-M2",
+      "description": "STO Xerox 7765 M2",
+      "manufacturer": "Xerox",
+      "modelName": "Xerox WorkCentre 7765",
+      "location": "STO Tea Factory 2nd Floor",
+      "address": "lpd://10.3.24.191",
+      "ppdPath": "/Library/Printers/PPDs/Contents/Resources/Xerox WorkCentre 7765.gz",
+      "driverInstallTrigger": "install_Xerox_Drivers_5.5.9",
+      "options": "-o printer-is-shared=false -o XROutputColor=PrintAsGrayscale -o XRColorCorrection=Gray -o XRPreviewColorCorrection=True -o XRPrintQuality=Enhanced"
+    },
+    {
+      "name": "SGU-SGS-HP_PW776",
+      "description": "SGU SGS HP PW774",
+      "manufacturer": "HP",
+      "modelName": "HP PageWide Color MFP776",
+      "location": "SGU SGS Oakville",
+      "address": "lpd://10.3.3.220",
+      "ppdPath": "/Library/Printers/PPDs/Contents/Resources/HP PageWide Color MFP 774 779.gz",
+      "driverInstallTrigger": "install_hp-printer-essentials-UniPS-6_4_0_1",
+      "options": "-o printer-is-shared=false -o HPOption_Tray3=HP550SheetInputTray"
+    },
+    {
+      "name": "STO-MARKS-HP_M776",
+      "description": "STO-MARKS-HP_M776",
+      "manufacturer": "HP",
+      "modelName": "HP Color LaserJet FlowMFP M776",
+      "location": "STO Marks Design Toronto",
+      "address": "lpd://10.3.24.28",
+      "ppdPath": "/Library/Printers/PPDs/Contents/Resources/HP Color LaserJet FlowMFP M776.gz",
+      "driverInstallTrigger": "install_hp-printer-essentials-UniPS-6_4_0_1",
+      "options": "-o printer-is-shared=false"
+    },
+    {
+      "name": "SGU-HPM653",
+      "description": "SGU HP M653 Card Printer",
+      "manufacturer": "HP",
+      "modelName": "HP Color LaserJet M653",
+      "location": "SGU SGS Oakville",
+      "address": "lpd://10.4.217.29",
+      "ppdPath": "/Library/Printers/PPDs/Contents/Resources/HP Color LaserJet M652 M653.gz",
+      "driverInstallTrigger": "install_hp-printer-essentials-UniPS-6_4_0_1",
+      "options": "-o printer-is-shared=false 2> /dev/null"
+    },
+    {
       "name": "MAL-Anchor_Room",
       "description": "Maltings Anchor Room Printer",
       "manufacturer": "Canon",
@@ -351,17 +395,6 @@
       "ppdPath": "/Library/Printers/PPDs/Contents/Resources/KONICAMINOLTAC300i.gz",
       "driverInstallTrigger": "install_SGK_UK_FollowMe_Printers",
       "options": "-o printer-is-shared=false -o KMTray=Auto -o PageSize=A4 -o Duplex=DuplexNoTumble -o ColorMode=Gray -o SelectColor=Grayscale -o Resolution=1200dpi -o Finisher=FS539_Eagle/FS-539"
-    },
-    {
-      "name": "STO-MARKS-HP_M776",
-      "description": "STO-MARKS-HP_M776",
-      "manufacturer": "HP",
-      "modelName": "HP Color LaserJet FlowMFP M776",
-      "location": "STO Marks Design Toronto",
-      "address": "lpd://10.3.24.28",
-      "ppdPath": "/Library/Printers/PPDs/Contents/Resources/HP Color LaserJet FlowMFP M776.gz",
-      "driverInstallTrigger": "install_hp-printer-essentials-UniPS-6_4_0_1",
-      "options": "-o printer-is-shared=false"
     },
     {
       "name": "Equator_Manchester_Printer_1",
