@@ -67,403 +67,1048 @@
   "sites": [
     {
       "name": "Alzira",
-      "code": "ALZ"
+      "code": "ALZ",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "2",
+      "city": "Alzira",
+      "country": "Spain",
+      "region": "EMEA"
     },
     {
       "name": "Amsterdam",
-      "code": "AMS"
+      "code": "AMS",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "Amsterdam",
+      "country": "Amsterdam",
+      "region": "EMEA"
     },
     {
       "name": "Antwerp",
-      "code": "ANT"
+      "code": "ANT",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "3",
+      "city": "Antwerpen",
+      "country": "Belgium",
+      "region": "EMEA"
     },
     {
       "name": "Appleton",
-      "code": "APP"
+      "code": "APP",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "Appleton",
+      "country": "United States",
+      "region": "AMER"
     },
     {
       "name": "Atlanta",
-      "code": "SGF"
-    },
-    {
-      "name": "Australia",
-      "code": "SMA"
-    },
-    {
-      "name": "AWS",
-      "code": "AWS"
+      "code": "SGF",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "United States",
+      "region": "AMER"
     },
     {
       "name": "Baltimore",
-      "code": "BLT"
+      "code": "BLT",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Barcelona",
-      "code": "DBS"
+      "code": "DBS",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Battle Creek",
-      "code": "BCM"
+      "code": "BCM",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Brazil",
-      "code": "CDB"
+      "code": "CDB",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Budapest",
-      "code": "BUD"
+      "code": "BUD",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Bury",
-      "code": "BUR"
+      "code": "BUR",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Chennai",
-      "code": "CHE"
+      "code": "CHE",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Chicago",
-      "code": "CHI"
+      "code": "CHI",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Cincinnati",
-      "code": "EQT"
+      "code": "EQT",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Cleckheaton",
-      "code": "CLE"
+      "code": "CLE",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Dallas",
-      "code": "SDL"
+      "code": "SDL",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Diadeis Coimbatore",
-      "code": "DCI"
+      "code": "DCI",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Diadeis Mumbai",
-      "code": "DMI"
+      "code": "DMI",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Diadeis Paris",
-      "code": "DPF"
+      "code": "DPF",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Lausanne",
-      "code": "DLS"
+      "code": "DLS",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "East Butler",
-      "code": "EBT"
+      "code": "EBT",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Ferrero Alfreton",
-      "code": "ALF"
+      "code": "ALF",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "1",
+      "city": "Alfreton",
+      "country": "United Kingdom",
+      "region": "EMEA"
     },
     {
       "name": "Fleetwood Fibre LA",
-      "code": "SFF"
+      "code": "SFF",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Florence",
-      "code": "SFL"
+      "code": "SFL",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Fort Dunlop",
-      "code": "FOR"
+      "code": "FOR",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Gatwick",
-      "code": "GWK"
+      "code": "GWK",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Goslar",
-      "code": "GOS"
+      "code": "GOS",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Guangzhou",
-      "code": "GZO"
-    },
-    {
-      "name": "Hershey",
-      "code": "STO"
+      "code": "GZO",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Hong Kong",
-      "code": "HKG"
+      "code": "HKG",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Hull Citadel",
-      "code": "HUL"
+      "code": "HUL",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Hull Maltings",
-      "code": "MAL"
+      "code": "MAL",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Indianapolis",
-      "code": "IND"
+      "code": "IND",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Julich",
-      "code": "JUL"
+      "code": "JUL",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Leipzig",
-      "code": "LPZ"
+      "code": "LPZ",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Lodz",
-      "code": "LOD"
+      "code": "LOD",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "London",
-      "code": "LON"
+      "code": "LON",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Louisville",
-      "code": "SLK"
+      "code": "SLK",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Manchester",
-      "code": "MAN"
+      "code": "MAN",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Manila",
-      "code": "SGM"
+      "code": "SGM",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Marietta",
-      "code": "MAR"
+      "code": "MAR",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Marks Cincinnati",
-      "code": "SCD"
+      "code": "SCD",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Marks Cleveland",
-      "code": "WJG"
+      "code": "WJG",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Marks Rhode Island",
-      "code": "SRI"
+      "code": "SRI",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Mauritius",
-      "code": "MAU"
+      "code": "MAU",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Mexico",
-      "code": "MEX"
+      "code": "MEX",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
-      "name": "Mexico City",
-      "code": "CDG"
+      "name": "Mexico city",
+      "code": "CDG",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Milwaukee",
-      "code": "WUY"
+      "code": "WUY",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Minneapolis",
-      "code": "MIN"
+      "code": "MIN",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Mondelez",
-      "code": "MDZ"
+      "code": "MDZ",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Montreal",
-      "code": "SMQ"
+      "code": "SMQ",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Munich",
-      "code": "MUN"
+      "code": "MUN",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Nela Park",
-      "code": "SGE"
+      "code": "SGE",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Newcastle",
-      "code": "NEW"
+      "code": "NEW",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Newport",
-      "code": "NKY"
+      "code": "NKY",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Nokomis",
-      "code": "SNF"
+      "code": "SNF",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Nottingham",
-      "code": "EQN"
+      "code": "EQN",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Nuremberg",
-      "code": "NUR"
+      "code": "NUR",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Oakville",
-      "code": "SGU"
+      "code": "SGU",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Paris",
-      "code": "PRS"
+      "code": "PRS",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Paristanbul-Matris",
-      "code": "SPM"
+      "code": "SPM",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Penang",
-      "code": "PEN"
+      "code": "PEN",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Pepsi Soho",
-      "code": "SGP"
+      "code": "SGP",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Pepsi White Plains",
-      "code": "SGP"
+      "code": "SGP",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Pittsburgh",
-      "code": "ECS"
+      "code": "ECS",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Portland",
-      "code": "POR"
+      "code": "POR",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Protopak",
-      "code": "PRO"
+      "code": "PRO",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
-      "name": "Queretaro, MX",
-      "code": "CDQ"
+      "name": "Queretaro",
+      "code": "CDQ",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "Queretaro",
+      "country": "Mexico",
+      "region": "AMER"
     },
     {
       "name": "Redmond",
-      "code": "RED"
+      "code": "RED",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Richmond",
-      "code": "SGR"
+      "code": "SGR",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "River Road",
-      "code": "RIV"
-    },
-    {
-      "name": "Samplepak",
-      "code": "SGU"
+      "code": "RIV",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "San Francisco",
-      "code": "SFS"
+      "code": "SFS",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "SGS NYC",
-      "code": "SNY"
+      "code": "SNY",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Shanghai",
-      "code": "SHG"
+      "code": "SHG",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Seoul",
-      "code": "SEO"
+      "code": "SEO",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Shenzhen",
-      "code": "SHZ"
+      "code": "SHZ",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Singapore",
-      "code": "SIN"
+      "code": "SIN",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Slough",
-      "code": "SGU"
+      "code": "SLO",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "United Kingdom",
+      "region": "EMEA"
     },
     {
       "name": "Speke",
-      "code": "SPK"
+      "code": "SPK",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "St Louis",
-      "code": "STL"
+      "code": "STL",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Stevenson",
-      "code": "STE"
+      "code": "STE",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Sydney",
-      "code": "SYD"
-    },
-    {
-      "name": "Tea Factory",
-      "code": "STO"
+      "code": "SYD",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Tigard MarketCraft",
-      "code": "MKC"
+      "code": "MKC",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Tokyo",
-      "code": "TOK"
+      "code": "TOK",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Toronto",
-      "code": "TOR"
+      "code": "TOR",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Vienna",
-      "code": "VIE"
+      "code": "VIE",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Vreden",
-      "code": "VRE"
+      "code": "VRE",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Walnut",
-      "code": "WNT"
+      "code": "WNT",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Warsaw",
-      "code": "WAR"
+      "code": "WAR",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Webb DeVlam Chicago",
-      "code": "WDC"
+      "code": "WDC",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Webb DeVlam London",
-      "code": "WDL"
+      "code": "WDL",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Winston-Salem",
-      "code": "SWN"
+      "code": "SWN",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Witham",
-      "code": "WIT"
+      "code": "WIT",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Woolworths",
-      "code": "WOL"
+      "code": "WOL",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "York",
-      "code": "YRK"
+      "code": "YRK",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     },
     {
       "name": "Zhangjiagang",
-      "code": "ZJG"
+      "code": "ZJG",
+      "triggers": {
+        "General": []
+      },
+      "jamfBuildingId": "",
+      "city": "",
+      "country": "",
+      "region": ""
     }
   ]
 }
