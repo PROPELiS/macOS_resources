@@ -29,39 +29,48 @@
   "departments": [
     {
       "id": "1",
-      "name": "General"
+      "name": "General",
+      "triggers": []
     },
     {
       "id": "2",
-      "name": "Prepress"
+      "name": "Prepress",
+      "triggers": []
     },
     {
       "id": "3",
-      "name": "Color"
+      "name": "Color",
+      "triggers": []
     },
     {
       "id": "4",
-      "name": "Information Technology"
+      "name": "Information Technology",
+      "triggers": []
     },
     {
       "id": "5",
-      "name": "3D/CGI"
+      "name": "3D/CGI",
+      "triggers": []
     },
     {
       "id": "6",
-      "name": "Quality Control"
+      "name": "Quality Control",
+      "triggers": []
     },
     {
       "id": "7",
-      "name": "Creative Design"
+      "name": "Creative Design",
+      "triggers": []
     },
     {
       "id": "8",
-      "name": "Production Design"
+      "name": "Production Design",
+      "triggers": []
     },
     {
       "id": "9",
-      "name": "Development"
+      "name": "Development",
+      "triggers": []
     }
   ],
   "sites": [
@@ -1087,6 +1096,52 @@
       "city": "",
       "country": "China",
       "region": "APAC"
+    }
+  ],
+  "jamf_policies": [
+    {
+      "listitem": "Saving user selections...",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_43bc651045ac22f1c6e6f1a29462672050c5ef579959f1ff66b5dcce8726b583",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "save_selections",
+          "path": "com.sgsco.pkg.GNDN01.plist"
+        }
+      ]
+    },
+    {
+      "listitem": "Applying Computer name and user assignment...",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_1bd5895178b61af2798de3fc0f4b9cb69417231cc7a2bfc7c5f4663ea407587c",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "initial_assignment",
+          "path": "com.sgsco.pkg.GNDN01.plist"
+        }
+      ]
+    },
+    {
+      "listitem": "Teamviewer Host",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_0bcc25301e63b263bb529e83680026713c165e430766e0ee4f0b41fa2be2f3f2",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "installTeamviewerHost",
+          "path": "com.sgsco.pkg.GNDN01.plist"
+        }
+      ]
+    },
+    {
+      "listitem": "Monty Pythons Completely Useless Policy",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_ab2b373753083514f1a4237d4d03b728ca450f85259d456f6383167579d97da6",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "spinyNorman",
+          "path": "com.sgsco.pkg.GNDN01.plist"
+        }
+      ]
     }
   ]
 }
