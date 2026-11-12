@@ -30,56 +30,53 @@
     {
       "id": "1",
       "name": "General",
-      "triggers": []
+      "code": "gen"
     },
     {
       "id": "2",
       "name": "Prepress",
-      "triggers": []
+      "code": "pp"
     },
     {
       "id": "3",
       "name": "Color",
-      "triggers": []
+      "code": "co"
     },
     {
       "id": "4",
       "name": "Information Technology",
-      "triggers": []
+      "code": "it"
     },
     {
       "id": "5",
       "name": "3D/CGI",
-      "triggers": []
+      "code": "3d"
     },
     {
       "id": "6",
       "name": "Quality Control",
-      "triggers": []
+      "code": "qc"
     },
     {
       "id": "7",
       "name": "Creative Design",
-      "triggers": []
+      "code": "cd"
     },
     {
       "id": "8",
       "name": "Production Design",
-      "triggers": []
+      "code": "pd"
     },
     {
       "id": "9",
       "name": "Development",
-      "triggers": []
+      "code": "dev"
     }
   ],
   "sites": [
     {
       "name": "Alzira",
       "code": "ALZ",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "2",
       "city": "Alzira",
       "country": "Spain",
@@ -88,9 +85,6 @@
     {
       "name": "Amsterdam",
       "code": "AMS",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "73",
       "city": "Amsterdam",
       "country": "Netherlands",
@@ -99,9 +93,6 @@
     {
       "name": "Antwerp",
       "code": "ANT",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "3",
       "city": "Antwerpen",
       "country": "Belgium",
@@ -110,9 +101,6 @@
     {
       "name": "Appleton",
       "code": "APP",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "4",
       "city": "Appleton",
       "country": "United States",
@@ -121,9 +109,6 @@
     {
       "name": "Atlanta",
       "code": "SGF",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "85",
       "city": "",
       "country": "United States",
@@ -132,9 +117,6 @@
     {
       "name": "Baltimore",
       "code": "BLT",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "6",
       "city": "Baltimore",
       "country": "United States",
@@ -143,9 +125,6 @@
     {
       "name": "Barcelona",
       "code": "DBS",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "69",
       "city": "",
       "country": "",
@@ -154,9 +133,6 @@
     {
       "name": "Battle Creek",
       "code": "BCM",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "5",
       "city": "Battle Creek",
       "country": "United States",
@@ -165,9 +141,6 @@
     {
       "name": "Brazil",
       "code": "CDB",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "65",
       "city": "",
       "country": "",
@@ -176,9 +149,6 @@
     {
       "name": "Budapest",
       "code": "BUD",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "7",
       "city": "Budapest",
       "country": "Hungary",
@@ -187,9 +157,6 @@
     {
       "name": "Bury",
       "code": "BUR",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "8",
       "city": "",
       "country": "",
@@ -198,9 +165,6 @@
     {
       "name": "Chennai",
       "code": "CHE",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "9",
       "city": "",
       "country": "",
@@ -209,9 +173,6 @@
     {
       "name": "Chicago",
       "code": "CHI",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "13",
       "city": "",
       "country": "",
@@ -220,9 +181,6 @@
     {
       "name": "Cincinnati",
       "code": "CIN",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "16",
       "city": "",
       "country": "",
@@ -231,9 +189,6 @@
     {
       "name": "Cleckheaton",
       "code": "CLE",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "10",
       "city": "",
       "country": "",
@@ -242,9 +197,6 @@
     {
       "name": "Dallas",
       "code": "SDL",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "82",
       "city": "",
       "country": "",
@@ -253,9 +205,6 @@
     {
       "name": "Diadeis Coimbatore",
       "code": "DCI",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "70",
       "city": "",
       "country": "",
@@ -264,9 +213,6 @@
     {
       "name": "Diadeis Mumbai",
       "code": "DMI",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "71",
       "city": "",
       "country": "",
@@ -275,9 +221,6 @@
     {
       "name": "Diadeis Paris",
       "code": "DPF",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "72",
       "city": "Paris",
       "country": "France",
@@ -286,9 +229,6 @@
     {
       "name": "Lausanne",
       "code": "DLS",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "68",
       "city": "",
       "country": "",
@@ -297,9 +237,6 @@
     {
       "name": "East Butler",
       "code": "EBT",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "11",
       "city": "",
       "country": "",
@@ -308,9 +245,6 @@
     {
       "name": "Ferrero Alfreton",
       "code": "ALF",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "1",
       "city": "Alfreton",
       "country": "United Kingdom",
@@ -319,9 +253,6 @@
     {
       "name": "Florence",
       "code": "SFL",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "83",
       "city": "",
       "country": "",
@@ -330,9 +261,6 @@
     {
       "name": "Fort Dunlop",
       "code": "FOR",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "74",
       "city": "Birmingham",
       "country": "United Kingdom",
@@ -341,9 +269,6 @@
     {
       "name": "Gatwick",
       "code": "GWK",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "18",
       "city": "",
       "country": "",
@@ -352,9 +277,6 @@
     {
       "name": "Goslar",
       "code": "GOS",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "17",
       "city": "",
       "country": "",
@@ -363,9 +285,6 @@
     {
       "name": "Guangzhou",
       "code": "GZO",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "54",
       "city": "",
       "country": "",
@@ -374,9 +293,6 @@
     {
       "name": "Hong Kong",
       "code": "HKG",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "19",
       "city": "",
       "country": "",
@@ -385,9 +301,6 @@
     {
       "name": "Hull Citadel",
       "code": "HUL",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "75",
       "city": "",
       "country": "",
@@ -396,9 +309,6 @@
     {
       "name": "Hull Maltings",
       "code": "MAL",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "76",
       "city": "",
       "country": "",
@@ -407,9 +317,6 @@
     {
       "name": "Indianapolis",
       "code": "IND",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "106",
       "city": "Indianapolis",
       "country": "United States",
@@ -418,9 +325,6 @@
     {
       "name": "Julich",
       "code": "JUL",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "20",
       "city": "",
       "country": "",
@@ -429,9 +333,6 @@
     {
       "name": "Leipzig",
       "code": "LPZ",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "23",
       "city": "",
       "country": "",
@@ -440,9 +341,6 @@
     {
       "name": "Lodz",
       "code": "LOD",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "21",
       "city": "",
       "country": "",
@@ -451,9 +349,6 @@
     {
       "name": "London",
       "code": "LON",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "22",
       "city": "",
       "country": "",
@@ -462,9 +357,6 @@
     {
       "name": "Louisville",
       "code": "SLK",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "91",
       "city": "",
       "country": "",
@@ -473,9 +365,6 @@
     {
       "name": "Manchester",
       "code": "MAN",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "14",
       "city": "",
       "country": "",
@@ -484,9 +373,6 @@
     {
       "name": "Manila",
       "code": "SGM",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "55",
       "city": "",
       "country": "",
@@ -495,9 +381,6 @@
     {
       "name": "Marietta",
       "code": "MAR",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "25",
       "city": "",
       "country": "",
@@ -506,9 +389,6 @@
     {
       "name": "Marks Cincinnati",
       "code": "CIN",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "81",
       "city": "",
       "country": "",
@@ -517,9 +397,6 @@
     {
       "name": "Marks Cleveland",
       "code": "WJG",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "105",
       "city": "Cleveland",
       "country": "",
@@ -528,9 +405,6 @@
     {
       "name": "Marks Rhode Island",
       "code": "SRI",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "94",
       "city": "",
       "country": "",
@@ -539,9 +413,6 @@
     {
       "name": "Mauritius",
       "code": "MAU",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "79",
       "city": "",
       "country": "",
@@ -550,9 +421,6 @@
     {
       "name": "SGK Mexico",
       "code": "MEX",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "27",
       "city": "",
       "country": "",
@@ -561,9 +429,6 @@
     {
       "name": "Mexico city",
       "code": "CDG",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "66",
       "city": "",
       "country": "",
@@ -572,9 +437,6 @@
     {
       "name": "Milwaukee",
       "code": "WUY",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "104",
       "city": "",
       "country": "",
@@ -583,9 +445,6 @@
     {
       "name": "Minneapolis",
       "code": "MIN",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "28",
       "city": "Minneapolis",
       "country": "United States",
@@ -594,9 +453,6 @@
     {
       "name": "Mondelez",
       "code": "MDZ",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "26",
       "city": "",
       "country": "Australia",
@@ -605,9 +461,6 @@
     {
       "name": "Montreal",
       "code": "SMQ",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "62",
       "city": "",
       "country": "",
@@ -616,9 +469,6 @@
     {
       "name": "Munich",
       "code": "MUN",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "30",
       "city": "",
       "country": "",
@@ -627,9 +477,6 @@
     {
       "name": "Nela Park",
       "code": "SGE",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "84",
       "city": "",
       "country": "",
@@ -638,9 +485,6 @@
     {
       "name": "Newcastle",
       "code": "NEW",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "31",
       "city": "",
       "country": "",
@@ -649,9 +493,6 @@
     {
       "name": "Newport",
       "code": "NKY",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "32",
       "city": "",
       "country": "",
@@ -660,9 +501,6 @@
     {
       "name": "New York",
       "code": "SNY",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "100",
       "city": "",
       "country": "",
@@ -671,9 +509,6 @@
     {
       "name": "Nokomis",
       "code": "SNF",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "92",
       "city": "",
       "country": "",
@@ -682,9 +517,6 @@
     {
       "name": "Nottingham",
       "code": "EQN",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "15",
       "city": "",
       "country": "",
@@ -693,9 +525,6 @@
     {
       "name": "Nuremberg",
       "code": "NUR",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "33",
       "city": "",
       "country": "",
@@ -704,9 +533,6 @@
     {
       "name": "Oakville",
       "code": "SGU",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "60",
       "city": "",
       "country": "",
@@ -715,9 +541,6 @@
     {
       "name": "Paris",
       "code": "PRS",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "37",
       "city": "",
       "country": "",
@@ -726,9 +549,6 @@
     {
       "name": "Paristanbul-Matris",
       "code": "SPM",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "43",
       "city": "",
       "country": "",
@@ -737,9 +557,6 @@
     {
       "name": "Penang",
       "code": "PEN",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "34",
       "city": "",
       "country": "",
@@ -748,9 +565,6 @@
     {
       "name": "Pepsi Soho",
       "code": "SGP",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "87",
       "city": "",
       "country": "",
@@ -759,9 +573,6 @@
     {
       "name": "Pepsi White Plains",
       "code": "SGP",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "88",
       "city": "",
       "country": "",
@@ -770,9 +581,6 @@
     {
       "name": "Pittsburgh",
       "code": "ECS",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "12",
       "city": "",
       "country": "",
@@ -781,9 +589,6 @@
     {
       "name": "Portland",
       "code": "POR",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "35",
       "city": "",
       "country": "",
@@ -792,9 +597,6 @@
     {
       "name": "Protopak",
       "code": "PRO",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "36",
       "city": "",
       "country": "",
@@ -803,9 +605,6 @@
     {
       "name": "Queretaro",
       "code": "CDQ",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "67",
       "city": "Queretaro",
       "country": "Mexico",
@@ -814,9 +613,6 @@
     {
       "name": "Redmond",
       "code": "RED",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "38",
       "city": "",
       "country": "",
@@ -825,9 +621,6 @@
     {
       "name": "Richmond",
       "code": "SGR",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "89",
       "city": "",
       "country": "",
@@ -836,9 +629,6 @@
     {
       "name": "San Francisco",
       "code": "SFS",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "39",
       "city": "",
       "country": "",
@@ -847,9 +637,6 @@
     {
       "name": "Shanghai",
       "code": "SHG",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "40",
       "city": "",
       "country": "",
@@ -858,9 +645,6 @@
     {
       "name": "Seoul",
       "code": "SEO",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "99",
       "city": "",
       "country": "",
@@ -869,9 +653,6 @@
     {
       "name": "SGS Australia",
       "code": "SMA",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "59",
       "city": "",
       "country": "",
@@ -880,9 +661,6 @@
     {
       "name": "Shenzhen",
       "code": "SHZ",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "41",
       "city": "",
       "country": "",
@@ -891,9 +669,6 @@
     {
       "name": "Singapore",
       "code": "SIN",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "42",
       "city": "",
       "country": "",
@@ -902,9 +677,6 @@
     {
       "name": "Speke",
       "code": "SPK",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "103",
       "city": "Speke",
       "country": "United Kingdom",
@@ -913,9 +685,6 @@
     {
       "name": "St Louis",
       "code": "STL",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "90",
       "city": "",
       "country": "",
@@ -924,9 +693,6 @@
     {
       "name": "Stevenson",
       "code": "STE",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "95",
       "city": "",
       "country": "",
@@ -935,9 +701,6 @@
     {
       "name": "Sydney",
       "code": "SYD",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "45",
       "city": "",
       "country": "",
@@ -946,9 +709,6 @@
     {
       "name": "Tigard MarketCraft",
       "code": "MKC",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "29",
       "city": "",
       "country": "",
@@ -957,9 +717,6 @@
     {
       "name": "Tokyo",
       "code": "TOK",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "46",
       "city": "",
       "country": "",
@@ -968,9 +725,6 @@
     {
       "name": "Toronto",
       "code": "TOR",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "47",
       "city": "",
       "country": "",
@@ -979,9 +733,6 @@
     {
       "name": "Vienna",
       "code": "VIE",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "48",
       "city": "",
       "country": "",
@@ -990,9 +741,6 @@
     {
       "name": "Vreden",
       "code": "VRE",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "102",
       "city": "",
       "country": "",
@@ -1001,9 +749,6 @@
     {
       "name": "Walnut",
       "code": "WNT",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "50",
       "city": "Chicago",
       "country": "United States",
@@ -1012,9 +757,6 @@
     {
       "name": "Warsaw",
       "code": "WAR",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "101",
       "city": "Warsaw",
       "country": "Poland",
@@ -1023,9 +765,6 @@
     {
       "name": "Propelis Chicago",
       "code": "CHI",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "97",
       "city": "",
       "country": "",
@@ -1034,9 +773,6 @@
     {
       "name": "Webb DeVlam London",
       "code": "WDL",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "77",
       "city": "",
       "country": "",
@@ -1045,9 +781,6 @@
     {
       "name": "Winston Salem",
       "code": "SWN",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "96",
       "city": "",
       "country": "",
@@ -1056,9 +789,6 @@
     {
       "name": "Witham",
       "code": "WIT",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "49",
       "city": "Witham",
       "country": "United Kingdom",
@@ -1067,9 +797,6 @@
     {
       "name": "Woolworths",
       "code": "WOL",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "51",
       "city": "",
       "country": "",
@@ -1078,9 +805,6 @@
     {
       "name": "York",
       "code": "YRK",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "52",
       "city": "York",
       "country": "United Kingdon",
@@ -1089,15 +813,39 @@
     {
       "name": "Zhangjiagang",
       "code": "ZJG",
-      "triggers": {
-        "General": []
-      },
       "jamfBuildingId": "53",
       "city": "",
       "country": "China",
       "region": "APAC"
     }
   ],
+  "triggers": {
+    "*.*.*": [
+      "save_selections",
+      "initial_assignment",
+      "ms365_Current",
+      "install_IBMPlexFonts"
+    ],
+    "*.*.gen": [],
+    "*.*.it": ["spinyNorman"],
+    "*.MK.*": ["install_Marks_PDFProfiles_2024", "install_marks_fonts_2025"],
+    "TOR.*.*": [
+      "install_Illustrator2026",
+      "install_Indesign2026",
+      "install_Photoshop2026"
+    ],
+    "TOR.CP.pp": ["install_AEC2411", "esko_Deskpack_2603"],
+    "TOR.CP.qc": [],
+    "TOR.CP.co": [
+      "install_AEC2411",
+      "esko_Deskpack_2603",
+      "install_InkLab",
+      "install_CocoaColor"
+    ],
+    "TOR.MK.pd": ["esko_DataExchange_2607"],
+    "TOR.MK.cd": [],
+    "site.lob.dept": []
+  },
   "jamf_policies": [
     {
       "listitem": "Saving user selections...",
