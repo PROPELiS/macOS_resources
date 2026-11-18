@@ -844,6 +844,7 @@
     ],
     "TOR.MK.pd": ["esko_DataExchange_2607"],
     "TOR.MK.cd": [],
+    "SFS.*.*": ["install_SFS_Color_Profiles"],
     "site.lob.dept": []
   },
   "jamf_policies": [
@@ -854,7 +855,7 @@
       "trigger_list": [
         {
           "trigger": "save_selections",
-          "path": "com.sgsco.pkg.GNDN01.plist"
+          "path": "com.propelis.made_up_path"
         }
       ]
     },
@@ -865,18 +866,7 @@
       "trigger_list": [
         {
           "trigger": "initial_assignment",
-          "path": "com.sgsco.pkg.GNDN01.plist"
-        }
-      ]
-    },
-    {
-      "listitem": "Teamviewer Host",
-      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_0bcc25301e63b263bb529e83680026713c165e430766e0ee4f0b41fa2be2f3f2",
-      "progresstext": "Pending",
-      "trigger_list": [
-        {
-          "trigger": "installTeamviewerHost",
-          "path": "com.sgsco.pkg.GNDN01.plist"
+          "path": "com.propelis.made_up_path"
         }
       ]
     },
@@ -887,7 +877,205 @@
       "trigger_list": [
         {
           "trigger": "spinyNorman",
-          "path": "com.sgsco.pkg.GNDN01.plist"
+          "path": "com.propelis.made_up_path"
+        }
+      ]
+    },
+    {
+      "listitem": "Teamviewer Host",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_0bcc25301e63b263bb529e83680026713c165e430766e0ee4f0b41fa2be2f3f2",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "installTeamviewerHost",
+          "path": "/Applications/TeamViewerHost.app"
+        }
+      ]
+    },
+    {
+      "listitem": "Teamviewer Full Client",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_51c1d22e4d7506880a09e4be534643dbfebe2eff6c6dee6ae2863b83174a38d7",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "installTeamviewerFull",
+          "path": "/Applications/TeamViewer.app"
+        }
+      ]
+    },
+    {
+      "listitem": "Microsoft Office Suite",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_9b056d82b433d4c1fc795975bdadbe7fa3510a4259ae454f2cd4e8bdcdf52773",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "ms365_Current",
+          "path": "/Applications/Microsoft Word.app"
+        }
+      ]
+    },
+    {
+      "listitem": "IBM Plex Fonts",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_8f65d7c58f07d92a29aad89aac729054cbf1243e23b34ee6a8f7a2ba53fdf274",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_IBMPlexFonts",
+          "path": "/Library/Fonts/IBMPlexMono-Bold.otf"
+        }
+      ]
+    },
+    {
+      "listitem": "Marks PDF Profiles",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_bd89378491ce6783c92764d632ebe0258197edb961b46d6c99f140f3cf83a22d",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_Marks_PDFProfiles_2024",
+          "path": "com.propelis.made_up_path"
+        }
+      ]
+    },
+    {
+      "listitem": "Marks Brand Fonts",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_a6223e037b833e8fce7d362b1cd7f19f9640752c3f9bd458ad7e7615c954a72d",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_marks_fonts_2025",
+          "path": "/Library/Fonts/ActaDeck-Book.otf"
+        }
+      ]
+    },
+    {
+      "listitem": "Adobe Illustrator 2026",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_d220c0046955a52eb5cb52158dcc87ae8f87ff134cb16699abed697f3561be5c",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_Illustrator2026",
+          "path": "/Applications/Adobe Illustrator 2026/Adobe Illustrator.app"
+        }
+      ]
+    },
+    {
+      "listitem": "Adobe Indesign 2026",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_76a5e4c979f81b042ba9e70e4953425d2d4f280635ee80185b912dc55d320116",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_Indesign2026",
+          "path": "/Applications/Adobe InDesign 2026/Adobe InDesign 2026.app"
+        }
+      ]
+    },
+    {
+      "listitem": "Adobe Photoshop 2026",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_1401a108634e7b258cd3932213197faf9901ef8401fee3b0f2c02415fefdc2fd",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_Photoshop2026",
+          "path": "/Applications/Adobe Photoshop 2026/Adobe Photoshop 2026.app"
+        }
+      ]
+    },
+    {
+      "listitem": "Esko Automation Engine Client 24.11",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_b07b7767c10913666abecfabc860bf1c848520c8c5a5440ee5b1d5e1a6f639c1",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_AEC2411",
+          "path": "/Applications/Automation Engine Editor Connection Tools/Automation Engine App Launcher.app"
+        }
+      ]
+    },
+    {
+      "listitem": "Esko Deskpack Advanced 26.03.18",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_37ece67e321f34f30a729c96a1c6a6e83d2a493ba17d0be2afd3d5abcbef859a",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "esko_Deskpack_2603",
+          "path": "/Applications/Esko Local License Manager.app"
+        }
+      ]
+    },
+    {
+      "listitem": "InkLab",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_3a115b4cc9eabb9b07a5abeee08494df93f26154693367e4a0606175dae7c9e2",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_InkLab",
+          "path": "/Applications/InkLab/InkLab.app"
+        }
+      ]
+    },
+    {
+      "listitem": "CocoaColor ",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_47ff401e190e040cef2eff50a0536b177537035b8835034910ee0f320c40478d",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_CocoaColor",
+          "path": "/Applications/sgsCocoaColor.app"
+        }
+      ]
+    },
+    {
+      "listitem": "Esko Data Exchange 26.07",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_37ece67e321f34f30a729c96a1c6a6e83d2a493ba17d0be2afd3d5abcbef859a",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "esko_DataExchange_2607",
+          "path": "/Library/LaunchAgents/com.esko.CloudResourceSyncer.plist"
+        }
+      ]
+    },
+    {
+      "listitem": "San Francisco Color Profiles",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_3af8db03100bcdfea4e90b57c55ed39d1160b278df2c55fcd09cf87832f3b099",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_SFS_Color_Profiles",
+          "path": "/Library/Application Support/Adobe/Color/Profiles/Recommended/Schawk/GRACoL2006_Coated1v2.icc"
+        }
+      ]
+    },
+    {
+      "listitem": "Cloudflow Plugin Suite",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_5d0226368d2d629fde4e6e4a10598a877f39f9dc26dbad8abc592feb651b49ae",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "installCloudflowPluginSuite",
+          "path": "/Applications/cloudflow_plug-in_suite/uninstall.app"
+        }
+      ]
+    },
+    {
+      "listitem": "Monotype Connect Fonts",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_a8c6875414b1ea047bdbfb38d2762db6d60c45468cedc4b653b8842c8c854a96",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "install_monotypeConnect",
+          "path": "/Applications/Monotype Connect.app"
+        }
+      ]
+    },
+    {
+      "listitem": "temp",
+      "icon": "temp",
+      "progresstext": "Pending",
+      "trigger_list": [
+        {
+          "trigger": "temp",
+          "path": "temp"
         }
       ]
     }
