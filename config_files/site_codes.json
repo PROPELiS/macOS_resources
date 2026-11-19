@@ -824,7 +824,8 @@
       "save_selections",
       "initial_assignment",
       "ms365_Current",
-      "install_IBMPlexFonts"
+      "install_IBMPlexFonts",
+      "install_Falcon_Primary"
     ],
     "*.*.gen": [],
     "*.*.it": ["spinyNorman"],
@@ -1069,13 +1070,13 @@
       ]
     },
     {
-      "listitem": "temp",
-      "icon": "temp",
+      "listitem": "Falcon Crowdstrike",
+      "icon": "https://use1.ics.services.jamfcloud.com/icon/hash_36238b99de9f721754d3d9953b33f7262547c9a20372df29cb7b070cd7d81ba9",
       "progresstext": "Pending",
       "trigger_list": [
         {
-          "trigger": "temp",
-          "path": "temp"
+          "trigger": "install_Falcon_Primary",
+          "path": "/Applications/Falcon.app"
         }
       ]
     }
