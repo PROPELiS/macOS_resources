@@ -827,8 +827,6 @@
       "install_IBMPlexFonts",
       "install_Falcon_Primary"
     ],
-    "*.*.gen": [],
-    "*.*.it": ["spinyNorman"],
     "*.MK.*": ["install_Marks_PDFProfiles_2024", "install_marks_fonts_2025"],
     "TOR.*.*": [
       "install_Illustrator2026",
